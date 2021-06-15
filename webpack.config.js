@@ -32,6 +32,10 @@ const assets = [
   {
     from: 'src/assets',
     to: 'assets/'
+  },
+  {
+    from: 'src/variables.css',
+    to: 'variables.css'
   }
 ];
 
@@ -40,7 +44,7 @@ const plugins = [
   new webpack.ProgressPlugin(),
   new HtmlWebpackPlugin({
     filename: 'index.html',
-    template: './index.html',
+    template: './src/index.html',
     minify: {
       collapseWhitespace: true,
       minifyCSS: true,
