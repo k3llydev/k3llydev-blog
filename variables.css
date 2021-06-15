@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap');
+
+:root {
+    --k3-website-main-background: #333333;
+    --k3-text-color-main: rgb(150, 26, 207);
+    /* --k3-text-color-main: rgb(171, 2, 250); */
+    --k3-text-color-main-light: rgb(171, 2, 250);
+    --k3-text-color-third: #FFFFFF;
+    --k3-text-color-secondary: rgb(255, 7, 255);
+    --k3-primary-color: rgb(171, 2, 250);
+    --k3-bright-primary-color: #bb34fb;
+    --k3-loader-main-color: purple;
+}

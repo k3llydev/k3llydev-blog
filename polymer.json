@@ -1,0 +1,25 @@
+{
+  "npm": true,
+  "lint": {
+    "rules": [
+      "polymer-3"
+    ]
+  },
+  "sources": [
+    "src/**.js",
+    "src/assets/favicons/**.png",
+    "src/assets/favicons/**.xml",
+    "src/assets/favicons/**.ico",
+    "src/assets/favicons/**.manifest",
+    "src/assets/images/**.svg",
+    "src/data/**.js"
+  ],
+  "extraDependencies": [
+    "node_modules/@fortawesome/fontawesome-free/sprites/**",
+    "node_modules/@webcomponents/webcomponentsjs/bundles/**",
+    "manifest.json"
+  ],
+  "builds": [{
+    "bundle": true
+  }]
+}

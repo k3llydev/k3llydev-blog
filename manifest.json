@@ -1,0 +1,7 @@
+{
+  "name": "poly-web",
+  "short_name": "poly-web",
+  "description": "My own personal website made in Polymer 3",
+  "start_url": "/",
+  "display": "standalone"
+}
