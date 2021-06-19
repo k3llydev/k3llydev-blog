@@ -1,27 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "9f8a244042461198ca0c",
-    "url": "main.9f8a2440.js"
+    "revision": "c2b471c6bbaf2f7ccb27",
+    "url": "main.c2b471c6.js"
   },
   {
-    "revision": "488500d6641bd176b14009b1a8e83d54",
+    "revision": "98ec64cdaa39a94332a46c64ebb33682",
     "url": "index.html"
-  },
-  {
-    "revision": "ae20acec21b6b059b24c6836b37cb6cc",
-    "url": "variables.css"
   },
   {
     "revision": "79106fd9b808b3bbd70d54b934850301",
     "url": "vendor/custom-elements-es5-adapter.js"
   },
   {
-    "revision": "939ef49522c9d6762c23f0a3fb10e87b",
-    "url": "vendor/webcomponents-bundle.js"
-  },
-  {
-    "revision": "e044a63e034bf10304dad73138b8c74b",
-    "url": "vendor/webcomponents-loader.js"
+    "revision": "da5b423ad6bc4e512c3f80ca76967e0b",
+    "url": "variables.css"
   },
   {
     "revision": "fb2608da8f301832531117b05f4acdb3",
@@ -36,16 +28,32 @@ self.__precacheManifest = [
     "url": "vendor/bundles/webcomponents-pf_js.js"
   },
   {
-    "revision": "8dceeea2b5ab294ed0d9d2d89e44b1b7",
-    "url": "vendor/bundles/webcomponents-sd-ce.js"
-  },
-  {
     "revision": "70f7381317bee71b5858500bfe417fca",
     "url": "vendor/bundles/webcomponents-sd-ce-pf.js"
   },
   {
+    "revision": "8dceeea2b5ab294ed0d9d2d89e44b1b7",
+    "url": "vendor/bundles/webcomponents-sd-ce.js"
+  },
+  {
     "revision": "ca00d2876464c9a42f5ef3b23acab988",
     "url": "vendor/bundles/webcomponents-sd.js"
+  },
+  {
+    "revision": "e044a63e034bf10304dad73138b8c74b",
+    "url": "vendor/webcomponents-loader.js"
+  },
+  {
+    "revision": "939ef49522c9d6762c23f0a3fb10e87b",
+    "url": "vendor/webcomponents-bundle.js"
+  },
+  {
+    "revision": "c79f583e2ca5f64692a1d788412a9c65",
+    "url": "assets/favicons/favicon-16x16.png"
+  },
+  {
+    "revision": "338cebfab098f52c64b412f22b04aa05",
+    "url": "assets/favicons/apple-touch-icon.png"
   },
   {
     "revision": "2a89241577b8cf39089c05baac0f4509",
@@ -56,32 +64,28 @@ self.__precacheManifest = [
     "url": "assets/favicons/android-chrome-256x256.png"
   },
   {
-    "revision": "338cebfab098f52c64b412f22b04aa05",
-    "url": "assets/favicons/apple-touch-icon.png"
-  },
-  {
     "revision": "00f6177dda55ac29db90397b2347b4f3",
     "url": "assets/favicons/favicon-32x32.png"
-  },
-  {
-    "revision": "f4d550af85e2a7b6dff8f4f0b8778fed",
-    "url": "assets/favicons/browserconfig.xml"
-  },
-  {
-    "revision": "c79f583e2ca5f64692a1d788412a9c65",
-    "url": "assets/favicons/favicon-16x16.png"
   },
   {
     "revision": "4f7b41131ca036e3fe3d7862a0902927",
     "url": "assets/favicons/favicon.ico"
   },
   {
+    "revision": "63e33516c8861e2baf3ed25dda802408",
+    "url": "assets/favicons/safari-pinned-tab.svg"
+  },
+  {
     "revision": "b63fe5a3d07a91bdbc059999abfc8d7b",
     "url": "assets/favicons/mstile-150x150.png"
   },
   {
-    "revision": "63e33516c8861e2baf3ed25dda802408",
-    "url": "assets/favicons/safari-pinned-tab.svg"
+    "revision": "f4d550af85e2a7b6dff8f4f0b8778fed",
+    "url": "assets/favicons/browserconfig.xml"
+  },
+  {
+    "revision": "7daffc9572144a7c61af9f4bc8651be5",
+    "url": "assets/loader.svg"
   },
   {
     "revision": "6c0f1c4718ea13aee3506c529ba76413",
